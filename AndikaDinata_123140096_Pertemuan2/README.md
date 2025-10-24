@@ -1,5 +1,7 @@
 # Personal Dashboard
 
+Coba disini: https://andika-123140096.github.io/pemrograman_web_itera_123140096/AndikaDinata_123140096_Pertemuan2/
+
 Aplikasi personal dashboard sederhana yang menampilkan informasi seperti jadwal kuliah, daftar tugas, catatan, dan waktu serta cuaca.
 
 ## Fitur
